@@ -26,7 +26,7 @@
                             </button>
                         </div>
                         <div class="modal-body">
-                            <p>No ha iniciado sesion</p>
+                            <p>No ha iniciado sesión</p>
                         </div>
                     </div>
                 </div>
