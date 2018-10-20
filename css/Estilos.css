@@ -1,0 +1,30 @@
+body {
+	background: #DDDDDD;
+	font-family: 'Roboto', sans-serif;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+footer{
+	background: #000000;
+	color: #FFFFFF;
+}
+footer a{
+	color: #FFFFFF;
+}
+footer a:hover{
+	color: #DCDCDC;
+}
+main {
+	background: #FFFFFF;
+}
+
+.cuerpo{
+	background: #FFFFFF;
+}
+.inicio {
+	height: 100%;
+}
